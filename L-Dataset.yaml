@@ -1,0 +1,10 @@
+
+path: D:\Deep_Learning\YOLO-Master-main\data\hardhat_data
+train: D:\Deep_Learning\YOLO-Master-main\data\hardhat_data\train\images
+val: D:\Deep_Learning\YOLO-Master-main\data\hardhat_data\val\images
+
+names:
+  0: crane
+  1: worker
+  2: helmet
+  3: safety_vest

@@ -1,0 +1,4 @@
+crane
+worker
+helmet
+power_line
